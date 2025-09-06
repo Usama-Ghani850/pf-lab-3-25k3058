@@ -1,4 +1,4 @@
-#process ofprogram compilation 
+# process ofprogram compilation 
 1: writing progam\
 2: compiler\
 3:assembler\
